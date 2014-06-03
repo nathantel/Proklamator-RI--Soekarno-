@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Proklamator RI
 > A [Bespoke.js](http://markdalgleish.com/projects/bespoke.js) presentation, built with [generator-bespoke](https://github.com/markdalgleish/generator-bespoke)
 
@@ -15,3 +16,7 @@ Then, install dependencies and run the preview server:
 $ npm install && bower install
 $ grunt server
 ```
+=======
+Proklamator-RI--Soekarno-
+=========================
+>>>>>>> 3c20530bfd743b1c7a1d5e3355eeefffec9d9b27
