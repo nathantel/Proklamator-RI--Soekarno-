@@ -129,6 +129,17 @@ Iyen Situmorang :
 1. Menyelesaikan Masa Kemerdekaan
 2. Tidak bisa jalan Grunt Server
 
+09/06
+Daily Scrum
+Kardika Sidabariba:
+1. Tidak bisa jalan Grunt Server
+
+Nathan O.S Telaumbanua :
+1. Tidak bisa jalan Grunt Server
+
+Iyen Situmorang :
+1. Menyelesaikan Masa Keterpurukan
+2. Tidak bisa jalan Grunt Server
 
 10/06 
 Daily Scrum
@@ -139,5 +150,5 @@ Nathan O.S Telaumbanua :
 1. Tidak bisa jalan Grunt Server
 
 Iyen Situmorang :
-1. Menyelesaikan Masa Keterpurukan
+1. Bagi tugas di trello
 2. Tidak bisa jalan Grunt Server
