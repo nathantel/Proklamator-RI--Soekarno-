@@ -129,7 +129,8 @@ Iyen Situmorang :
 1. Menyelesaikan Masa Kemerdekaan
 2. Tidak bisa jalan Grunt Server
 
-9/06 
+
+10/06 
 Daily Scrum
 Kardika Sidabariba:
 1. Tidak bisa jalan Grunt Server
