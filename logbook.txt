@@ -129,11 +129,7 @@ Iyen Situmorang :
 1. Menyelesaikan Masa Kemerdekaan
 2. Tidak bisa jalan Grunt Server
 
-<<<<<<< HEAD
 9/06 
-=======
-09/06
->>>>>>> 83d6534c7e79b00bebc022f336cfcebaa492891d
 Daily Scrum
 Kardika Sidabariba:
 1. Tidak bisa jalan Grunt Server
@@ -142,9 +138,6 @@ Nathan O.S Telaumbanua :
 1. Tidak bisa jalan Grunt Server
 
 Iyen Situmorang :
-<<<<<<< HEAD
-1. Membagi Tugas diTrello
-=======
 1. Menyelesaikan Masa Keterpurukan
 2. Tidak bisa jalan Grunt Server
 
@@ -152,6 +145,7 @@ Iyen Situmorang :
 Daily Scrum
 Kardika Sidabariba:
 1. Tidak bisa jalan Grunt Server
+2. Bagi tugas di trello
 
 Nathan O.S Telaumbanua :
 1. Tidak bisa jalan Grunt Server
@@ -159,4 +153,16 @@ Nathan O.S Telaumbanua :
 Iyen Situmorang :
 1. Bagi tugas di trello
 2. Tidak bisa jalan Grunt Server
->>>>>>> 83d6534c7e79b00bebc022f336cfcebaa492891d
+
+
+11/06 
+Daily Scrum
+Kardika Sidabariba:
+1. Menyelesaikan sakit dan wafatnya Ir.Soekarno
+
+Nathan O.S Telaumbanua :
+1.Mengerjakan peninggalan Ir.soekarno
+
+Iyen Situmorang :
+1. Menyelesaikan topik penghargaan Ir.Soekarno 
+2. Tidak bisa jalan Grunt Server
