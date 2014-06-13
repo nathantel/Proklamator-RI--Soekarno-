@@ -1,0 +1,180 @@
+=======================
+INFORMASI UMUM
+
+Nama kelompok: D'Kans
+Judul Topik: Proklamator Kemerdekaan RI Ir.Soekarno
+Alamat Github: https://github.com/kardikasidabariba/Proklamator-RI--Soekarno-.git
+Alamat Trello: https://trello.com/b/6iZ1B5Ym/proklamator-ri-soekarno
+Anggota 1:
+	Nama: Kardika sidabariba
+	NIM: 12.111.1826
+Anggota 2:
+	Nama: Nathan O.S Telaumbanua
+	NIM: 12.111.3193
+Anggota 3:
+	Nama: Iyen Situmorang
+	NIM: 12.111.3185
+=======================
+
+
+SPRINT
+------
+Sprint 1: 
+2/06 - 5/06
+Scrummaster:
+Nama 	: Kardika Sidabariba
+NIM	: 12.111.1826
+
+Sprint 2:
+6/06 - 9/06
+Scrummaster:
+Nama	: Nathan O.S Telaumbanua
+NIM	: 12.111.3193
+
+Sprint 3: 
+10/06 - 13/06
+Scrummaster:
+Nama	: Iyen Situmorang
+NIM	: 12.111.3185
+
+Progress Harian (Diupdate tiap hari)
+------------------------------------
+
+2/06 
+Daily Scrum
+Kardika Sidabariba:
+1. Kendala di Commit
+
+Nathan O.S Telaumbanua :
+1. Kendala di Commit
+
+Iyen Situmorang :
+1. Kendala di Commit
+
+3/06 
+Daily Scrum
+Kardika Sidabariba:
+1. Baru bisa Push Bespoke
+
+Nathan O.S Telaumbanua :
+1. tidak bisa Push ke Git Hub
+
+Iyen Situmorang :
+1. Tidak bisa Clone
+2. Kendala di Commit
+
+4/06 
+Daily Scrum
+Kardika Sidabariba:
+1. Saya Mengerjakan Biografi Soekarno
+
+Nathan O.S Telaumbanua :
+1. Memperbaiki kesalahan Ngepush
+2. Hanya Mengerjakan Heading Latar Belakang dan Pendidikan
+3. Tidak Bisa Jalan Grunt Server
+
+Iyen Situmorang :
+1. Tidak bisa Pull dan Push
+2. Kendala di Commit
+3. Tidak bisa jalan Grunt Server
+
+5/06 
+Daily Scrum
+Kardika Sidabariba:
+1. Saya Mengerjakan Pidato Soekarno
+
+Nathan O.S Telaumbanua :
+1. Menyelesaikan Lanjutan Latar Belakang
+2. Tidak Bisa Jalan Grunt Server
+
+Iyen Situmorang :
+1. Mengerjakan Kata - Kata Bijak
+2. Tidak bisa jalan Grunt Server
+
+6/06 
+Daily Scrum
+Kardika Sidabariba:
+1. Mengerjakan Masa Penjajahan Jepang
+
+Nathan O.S Telaumbanua :
+1. Tidak bisa jalan Grunt Server
+2. Saya mengerjakan Judul Kiprah Politik
+
+Iyen Situmorang :
+1. Mengerjakan Masa Keterpurukan
+2. Tidak bisa jalan Grunt Server
+
+7/06 
+Daily Scrum
+Kardika Sidabariba:
+1. Mengerjakan Penambahan Bahan
+
+Nathan O.S Telaumbanua :
+1. Tidak bisa jalan Grunt Server
+2. Saya mengerjakan Masa Pergerakan Nasional
+
+Iyen Situmorang :
+1. Edit Masa Keterpurukan
+2. Tidak bisa jalan Grunt Server
+
+8/06 
+Daily Scrum
+Kardika Sidabariba:
+1. Menyelesaikan Masa Penjajahan Jepang
+
+Nathan O.S Telaumbanua :
+1. Tidak bisa jalan Grunt Server
+
+Iyen Situmorang :
+1. Menyelesaikan Masa Kemerdekaan
+2. Tidak bisa jalan Grunt Server
+
+9/06 
+Daily Scrum
+Kardika Sidabariba:
+1. Tidak bisa jalan Grunt Server
+
+Nathan O.S Telaumbanua :
+1. Tidak bisa jalan Grunt Server
+
+Iyen Situmorang :
+1. Menyelesaikan Masa Keterpurukan
+2. Tidak bisa jalan Grunt Server
+
+10/06 
+Daily Scrum
+Kardika Sidabariba:
+1. Tidak bisa jalan Grunt Server
+2. Bagi tugas di trello
+
+Nathan O.S Telaumbanua :
+1. Tidak bisa jalan Grunt Server
+
+Iyen Situmorang :
+1. Bagi tugas di trello
+2. Tidak bisa jalan Grunt Server
+
+
+11/06 
+Daily Scrum
+Kardika Sidabariba:
+1. Menyelesaikan sakit dan wafatnya Ir.Soekarno
+
+Nathan O.S Telaumbanua :
+1.Mengerjakan peninggalan Ir.soekarno
+
+Iyen Situmorang :
+1. Menyelesaikan topik penghargaan Ir.Soekarno 
+2. Tidak bisa jalan Grunt Server
+
+12/06 
+Daily Scrum
+Kardika Sidabariba:
+1. Edit slide
+
+Nathan O.S Telaumbanua :
+1.Menyelesaikan peninggalan Ir.soekarno
+
+Iyen Situmorang :
+1. Edit slide
+
