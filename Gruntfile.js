@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-// Generated on 2014-06-13 using generator-bespoke v0.8.0
-=======
 // Generated on 2014-06-03 using generator-bespoke v0.8.0
->>>>>>> 2357bbe52aba5801a0ea336548ca3be1adb52fb1
 
 module.exports = function(grunt) {
 
