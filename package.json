@@ -1,9 +1,7 @@
 {
-<<<<<<< HEAD
+
   "name": "proklamator-ri-soekarno-bespoke",
-=======
-  "name": "proklamator-ri-bespoke",
->>>>>>> 2357bbe52aba5801a0ea336548ca3be1adb52fb1
+
   "version": "0.0.0",
   "dependencies": {},
   "devDependencies": {
