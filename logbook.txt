@@ -178,3 +178,24 @@ Nathan O.S Telaumbanua :
 Iyen Situmorang :
 1. Edit slide
 
+13/06 
+Daily Scrum
+Kardika Sidabariba:
+1. Package.json bermasalah
+
+Nathan O.S Telaumbanua :
+1. Package.json bermasalah
+
+Iyen Situmorang :
+1. Package.json bermasalah
+
+14/06 
+Daily Scrum
+Kardika Sidabariba:
+1. Perbaiki Package.json
+
+Nathan O.S Telaumbanua :
+1. Edit lanjutan slide
+
+Iyen Situmorang :
+1. Edit logbook
